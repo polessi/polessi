@@ -1,7 +1,7 @@
 
-# Welcome, I'am Gabriel Polessi 🖐️
+# Bem vindo, meu nome é Gabriel Polessi 🖐️
 
-### I'm always looking for new experiences and focused on growing more and more! 🚀
+### Estou sempre em busca de novas experiências e focado em crescer cada vez mais! 🚀
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511958646953)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-polessi-a0b551213/)
@@ -9,7 +9,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polessigabriel@gmail.com)
 
 
-### 👨‍💻 Technologies I use in my daily life 👨‍💻
+### 👨‍💻 Tecnologias que uso no meu dia a dia 👨‍💻
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
