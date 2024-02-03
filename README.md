@@ -1,5 +1,5 @@
 
-# Bem vindo, meu nome é Gabriel Polessi 🖐️
+# Bem vindo, sou o Gabriel Polessi 🖐️
 
 ### Estou sempre em busca de novas experiências e focado em crescer cada vez mais! 🚀
 
